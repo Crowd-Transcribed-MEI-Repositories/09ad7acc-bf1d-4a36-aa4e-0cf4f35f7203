@@ -315,7 +315,9 @@
 								<layer/>
 							</staff>
 							<staff facs="#zone_33239c0a-5d61-40d0-8a89-2d1bf0608569" label="6" n="6" xml:id="staff_90ef7134-c38a-4119-aec2-f88eca4194fd">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<measure label="4" n="4" xml:id="measure_4170afcd-42f9-4a3d-9842-ca63507caf2c">
