@@ -197,6 +197,10 @@
 							<staff facs="#zone_2a67cd3d-1246-4d45-aa4e-e736b82208eb" label="4" n="4" xml:id="staff_e33aa958-fd3b-40ec-9437-44e16464f8cc">
 								<layer>
 									<clef line="4" shape="F" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_5a40ac28-9425-4c17-b9cd-db45aa659976" label="5" n="5" xml:id="staff_7856546c-2508-4e43-8b14-dd534a7abef8">
