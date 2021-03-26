@@ -235,10 +235,10 @@
 							</staff>
 							<staff facs="#zone_8f7f948b-4684-4667-a0ac-a83eb9505604" label="3" n="3" xml:id="staff_9c86fb7c-644f-427a-8ed9-c5d0ad58602d">
 								<layer>
-									<note dots="0" dur="4" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="1" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="16" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="2" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="4" oct="4" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="4" pname="f" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="16" oct="4" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="2" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_938cdb25-4fc2-45be-9133-11f933620e64" label="4" n="4" xml:id="staff_c495fa12-5ec0-4b29-aa18-cf8e491a42e5">
