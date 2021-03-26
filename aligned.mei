@@ -432,13 +432,13 @@
 							</staff>
 							<staff facs="#zone_8b67f3a8-34a0-44e1-9660-5111f09ec02d" label="6" n="6" xml:id="staff_6c3fff6a-734e-4ab2-b0d7-71fbf422439d">
 								<layer>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="5" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="5" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="5" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="5" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="4" oct="5" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="5" pname="g" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 						</measure>
