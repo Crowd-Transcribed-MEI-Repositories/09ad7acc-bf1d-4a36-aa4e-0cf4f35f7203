@@ -440,7 +440,16 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_48f72e8c-f378-4643-99e9-191fe5bb2025" label="3" n="3" xml:id="staff_d3bd8c92-75fb-4cd1-afff-d92f04671537">
-								<layer/>
+								<layer>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_7d868014-b3f7-447e-be28-47f3f1d04a32" label="4" n="4" xml:id="staff_9ad6ca60-8fa7-4732-92f8-721aa17424f4">
 								<layer/>
