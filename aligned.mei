@@ -551,7 +551,7 @@
 							</staff>
 							<staff facs="#zone_5d9f9ab7-f045-459d-a69f-3769ffe8b05b" label="5" n="5" xml:id="staff_1ea45bab-605d-48a4-bfa6-9422b6d6cd90">
 								<layer>
-									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_ca806286-4278-41df-a3a6-1fd2cefa2e0c" label="6" n="6" xml:id="staff_98ccd764-32a1-4493-a7c2-00fdf30c5c10">
