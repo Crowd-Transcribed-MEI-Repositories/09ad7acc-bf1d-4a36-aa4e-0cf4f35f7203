@@ -157,19 +157,18 @@
 					<section>
 						<scoreDef>
 							<staffGrp>
-								<staffDef key.sig="1f" key.sig.show="true" meter.sym="common" n="1"/>
-								<staffDef meter.sym="common" n="6"/>
-								<staffDef meter.sym="common" n="5"/>
-								<staffDef key.sig="3f" key.sig.show="true" meter.sym="common" n="4"/>
-								<staffDef key.sig="3f" key.sig.show="true" meter.sym="common" n="3"/>
-								<staffDef key.sig="1f" key.sig.show="true" meter.sym="common" n="2"/>
+								<staffDef clef.line="2" clef.shape="G" key.sig="1f" key.sig.show="true" meter.sym="common" n="1"/>
+								<staffDef clef.line="2" clef.shape="G" meter.sym="common" n="6"/>
+								<staffDef clef.line="2" clef.shape="G" meter.sym="common" n="5"/>
+								<staffDef clef.line="4" clef.shape="F" key.sig="3f" key.sig.show="true" meter.sym="common" n="4"/>
+								<staffDef clef.line="4" clef.shape="F" key.sig="3f" key.sig.show="true" meter.sym="common" n="3"/>
+								<staffDef clef.line="2" clef.shape="G" key.sig="1f" key.sig.show="true" meter.sym="common" n="2"/>
 							</staffGrp>
 						</scoreDef>
 						<pb/>
 						<measure label="1" n="1" xml:id="measure_edb87710-5fc7-4e02-996e-ff802bab82fc">
 							<staff facs="#zone_5f28f7b9-237e-4ab2-b68d-5df5d408a759" label="1" n="1" xml:id="staff_a187a4d3-fc14-48e8-8aca-9ec689d45626">
 								<layer>
-									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="16" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
@@ -178,7 +177,6 @@
 							</staff>
 							<staff facs="#zone_6398300e-ad9a-4ef2-90d9-7055ff81f293" label="2" n="2" xml:id="staff_99abc557-b862-498f-a21b-0eca03be9fcd">
 								<layer>
-									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="16" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
@@ -187,7 +185,6 @@
 							</staff>
 							<staff facs="#zone_70c4bf70-a838-4a92-9add-5b9678512917" label="3" n="3" xml:id="staff_fab4b02d-7abc-45d7-8528-e48624bcbc02">
 								<layer>
-									<clef line="4" shape="F" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="16" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
@@ -196,7 +193,6 @@
 							</staff>
 							<staff facs="#zone_2a67cd3d-1246-4d45-aa4e-e736b82208eb" label="4" n="4" xml:id="staff_e33aa958-fd3b-40ec-9437-44e16464f8cc">
 								<layer>
-									<clef line="4" shape="F" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="16" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
@@ -205,7 +201,6 @@
 							</staff>
 							<staff facs="#zone_5a40ac28-9425-4c17-b9cd-db45aa659976" label="5" n="5" xml:id="staff_7856546c-2508-4e43-8b14-dd534a7abef8">
 								<layer>
-									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="16" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
@@ -214,7 +209,6 @@
 							</staff>
 							<staff facs="#zone_6fe1640a-5f0a-4cb5-b529-8ef5bb939bb9" label="6" n="6" xml:id="staff_5980516f-ca56-4bd2-a74e-cf72c850bb1f">
 								<layer>
-									<clef line="2" shape="G" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 									<note dots="0" dur="16" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
