@@ -289,11 +289,11 @@
 							</staff>
 							<staff facs="#zone_8145cc78-01c8-49c9-92a1-9b4ac84f82d9" label="3" n="3" xml:id="staff_92fc2595-a7e2-4a84-b136-97c85500cb0c">
 								<layer>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="2" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="4" pname="a" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="5" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="2" oct="5" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_e1a30ddf-ed12-4b35-b38c-e9c9476b4e71" label="4" n="4" xml:id="staff_30f7619a-a90f-4b8b-a877-28f63c04e7bf">
