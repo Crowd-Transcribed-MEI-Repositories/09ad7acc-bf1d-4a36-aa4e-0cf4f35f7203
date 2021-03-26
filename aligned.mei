@@ -382,7 +382,16 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_31afc14d-02b4-411c-b876-a9b624f8807a" label="4" n="4" xml:id="staff_da1ba3fe-6cbd-451f-a6bd-e9c4948dc34c">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_c127f886-22c2-40ae-ab4c-85023d90709b" label="5" n="5" xml:id="staff_881f78ab-3d45-496f-a51a-b4583a7f7372">
 								<layer/>
