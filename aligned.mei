@@ -550,7 +550,9 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_ca806286-4278-41df-a3a6-1fd2cefa2e0c" label="6" n="6" xml:id="staff_98ccd764-32a1-4493-a7c2-00fdf30c5c10">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="1" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 						</measure>
 						<sb/>
