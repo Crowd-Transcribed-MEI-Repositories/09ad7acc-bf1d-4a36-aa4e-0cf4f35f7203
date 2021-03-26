@@ -512,12 +512,12 @@
 						<measure label="7" n="7" xml:id="measure_9bac6f97-bb8f-4a74-91c6-0b2c1f7c0643">
 							<staff facs="#zone_1d672f2c-9ef9-4953-91dd-2f81bac24574" label="1" n="1" xml:id="staff_86a8c75b-7985-459d-aa34-ffb27175e9a5">
 								<layer>
-									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="4" oct="6" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="6" pname="e" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="4" oct="6" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="6" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_15966b5e-5a16-4eb3-a3a3-02dce09ebbe0" label="2" n="2" xml:id="staff_1127664d-f3f9-484e-94b1-69a8b464f4d7">
