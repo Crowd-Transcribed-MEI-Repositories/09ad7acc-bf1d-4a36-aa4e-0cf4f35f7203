@@ -215,7 +215,12 @@
 								<layer/>
 							</staff>
 							<staff facs="#zone_dfb288e5-db9c-46ed-a39d-5bc4e14188de" label="2" n="2" xml:id="staff_1a86577a-c531-4eba-9d84-3a8ba00624d1">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_8f7f948b-4684-4667-a0ac-a83eb9505604" label="3" n="3" xml:id="staff_9c86fb7c-644f-427a-8ed9-c5d0ad58602d">
 								<layer/>
