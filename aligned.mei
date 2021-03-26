@@ -324,7 +324,15 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_d9290723-d587-4323-9f91-74bee54457d1" label="4" n="4" xml:id="staff_8bb7559e-1bf0-4557-9334-d5365865c426">
-								<layer/>
+								<layer>
+									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="4" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_f707bc18-3ee5-46ee-967b-8d785d22c4b6" label="5" n="5" xml:id="staff_34679e40-c389-44da-bfd7-80be9dcf4dba">
 								<layer/>
