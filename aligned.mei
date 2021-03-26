@@ -240,7 +240,12 @@
 								</layer>
 							</staff>
 							<staff facs="#zone_938cdb25-4fc2-45be-9133-11f933620e64" label="4" n="4" xml:id="staff_c495fa12-5ec0-4b29-aa18-cf8e491a42e5">
-								<layer/>
+								<layer>
+									<note dots="0" dur="4" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="16" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="0" dur="2" oct="3" pname="d" xmlns="http://www.w3.org/1999/xhtml"/>
+								</layer>
 							</staff>
 							<staff facs="#zone_4b3109e1-741a-4c83-8f44-059d912a0d74" label="5" n="5" xml:id="staff_169897a1-5b3b-48c2-8c31-05b3338468e0">
 								<layer/>
