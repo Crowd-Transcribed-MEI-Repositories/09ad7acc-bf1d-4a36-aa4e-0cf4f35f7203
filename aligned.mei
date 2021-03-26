@@ -522,12 +522,12 @@
 							</staff>
 							<staff facs="#zone_15966b5e-5a16-4eb3-a3a3-02dce09ebbe0" label="2" n="2" xml:id="staff_1127664d-f3f9-484e-94b1-69a8b464f4d7">
 								<layer>
-									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="4" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
-									<rest dots="0" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
-									<note dots="0" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="4" oct="5" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="6" pname="c" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="4" oct="5" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
+									<rest dots="1" dur="8" xmlns="http://www.w3.org/1999/xhtml"/>
+									<note dots="1" dur="8" oct="4" pname="b" xmlns="http://www.w3.org/1999/xhtml"/>
 								</layer>
 							</staff>
 							<staff facs="#zone_48f72e8c-f378-4643-99e9-191fe5bb2025" label="3" n="3" xml:id="staff_d3bd8c92-75fb-4cd1-afff-d92f04671537">
